@@ -9,7 +9,7 @@ A modern, interactive quiz application built with React, TypeScript, and Tailwin
 - 📊 Instant result calculation and display
 - 🎯 Points-based scoring system
 - 📱 Responsive design for all devices
-- ⚡ Real-time progress tracking
+- ⚡ Realtime progress tracking
 
 ## Tech Stack
 
